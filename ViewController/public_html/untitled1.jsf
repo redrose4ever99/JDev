@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE html>
+<f:view xmlns:f="http://java.sun.com/jsf/core" xmlns:af="http://xmlns.oracle.com/adf/faces/rich">
+    <af:document title="untitled1.jsf" id="d1" binding="#{backingBeanScope.backing_untitled1.d1}">
+        <af:form id="f1" binding="#{backingBeanScope.backing_untitled1.f1}">
+            <af:panelGroupLayout layout="scroll" id="pgl1" binding="#{backingBeanScope.backing_untitled1.pgl1}"/>
+        </af:form>
+    </af:document>
+    <!--oracle-jdev-comment:auto-binding-backing-bean-name:backing_untitled1-->
+</f:view>
